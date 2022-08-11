@@ -4,16 +4,20 @@ body {
 }
 
 #total {
-  margin-bottom: 1%;
+  margin: 2% 0;
 }
 
 #inCash, #outCash {
   margin-top: 3%;
 }
 
+.row {
+  margin-top: 3%;
+}
+
 .col {
   /* border: 1px solid black; */
-  margin: 3% 5% 4%;
+  margin: 3% 0% 4%;
   padding-top: 2%;
 }
 
